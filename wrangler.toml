@@ -1,6 +1,10 @@
 name = "mynba"
+main = "worker.js"
 compatibility_date = "2026-08-13"
-main = "app.js"
+
+[assets]
+directory = "."
+binding = "ASSETS"
 
 [[d1_databases]]
 binding = "DB"

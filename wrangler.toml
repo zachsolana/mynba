@@ -1,0 +1,8 @@
+name = "mynba"
+compatibility_date = "2026-08-13"
+main = "app.js"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mynba-db"
+database_id = "443bbf12-f5e8-4617-a5a3-0bc42509b38f"
